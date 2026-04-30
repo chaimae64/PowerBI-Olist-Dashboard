@@ -111,9 +111,9 @@ Ce dashboard permet d'identifier rapidement :
 - Data Storytelling
 
 ## Screenshots
-![Modele](screenshots/modele.png)
-![Overview](screenshots/overview.png)
-![Clients](screenshots/clients.png)
-![Produits](screenshots/produits.png)
-![Livraison](screenshots/livraison.png)
-![Insights](screenshots/insights.png)
+![Modele](modele.png)
+![Overview](overview.png)
+![Clients](clients.png)
+![Produits](produits.png)
+![Livraison](livraison.png)
+![Insights](insights.png)
